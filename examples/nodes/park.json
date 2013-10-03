@@ -3,6 +3,5 @@
     "parentType" : "landscape",
     "color" : "51c728",
     "chance" : "80",
-    "size" : "1-2",
-    "shapde" : "random"
+    "shape" : "random"
 }
