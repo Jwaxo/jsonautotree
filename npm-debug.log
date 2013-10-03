@@ -1,0 +1,221 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   '.',
+1 verbose cli   '-g' ]
+2 info using npm@1.2.21
+3 info using node@v0.10.7
+4 verbose node symlink C:\Program Files\nodejs\\node.exe
+5 verbose read json C:\Users\jeffrey\AppData\Roaming\npm\package.json
+6 verbose read json C:\Users\jeffrey\AppData\Roaming\npm\package.json
+7 verbose cache add [ '.', null ]
+8 verbose cache add name=undefined spec="." args=[".",null]
+9 verbose parsed url { protocol: null,
+9 verbose parsed url   slashes: null,
+9 verbose parsed url   auth: null,
+9 verbose parsed url   host: null,
+9 verbose parsed url   port: null,
+9 verbose parsed url   hostname: null,
+9 verbose parsed url   hash: null,
+9 verbose parsed url   search: null,
+9 verbose parsed url   query: null,
+9 verbose parsed url   pathname: '.',
+9 verbose parsed url   path: '.',
+9 verbose parsed url   href: '.' }
+10 silly lockFile 3a52ce78- .
+11 verbose lock . C:\Users\jeffrey\AppData\Roaming\npm-cache\3a52ce78-.lock
+12 verbose read json package.json
+13 warn package.json jsonautotree@0.0.1 dependancies should probably be dependencies.
+14 verbose tar pack [ 'C:\\Users\\jeffrey\\AppData\\Local\\Temp\\npm-13560\\1380759859606-0.566802530316636\\tmp.tgz',
+14 verbose tar pack   '.' ]
+15 verbose tarball C:\Users\jeffrey\AppData\Local\Temp\npm-13560\1380759859606-0.566802530316636\tmp.tgz
+16 verbose folder .
+17 info prepublish jsonautotree@0.0.1
+18 silly lockFile 3a52ce78- .
+19 verbose lock . C:\Users\jeffrey\AppData\Roaming\npm-cache\3a52ce78-.lock
+20 silly lockFile 79e5c608-859606-0-566802530316636-tmp-tgz C:\Users\jeffrey\AppData\Local\Temp\npm-13560\1380759859606-0.566802530316636\tmp.tgz
+21 verbose lock C:\Users\jeffrey\AppData\Local\Temp\npm-13560\1380759859606-0.566802530316636\tmp.tgz C:\Users\jeffrey\AppData\Roaming\npm-cache\79e5c608-859606-0-566802530316636-tmp-tgz.lock
+22 silly lockFile 3a52ce78- .
+23 silly lockFile 3a52ce78- .
+24 silly lockFile 79e5c608-859606-0-566802530316636-tmp-tgz C:\Users\jeffrey\AppData\Local\Temp\npm-13560\1380759859606-0.566802530316636\tmp.tgz
+25 silly lockFile 79e5c608-859606-0-566802530316636-tmp-tgz C:\Users\jeffrey\AppData\Local\Temp\npm-13560\1380759859606-0.566802530316636\tmp.tgz
+26 verbose tar unpack C:\Users\jeffrey\AppData\Local\Temp\npm-13560\1380759859606-0.566802530316636\tmp.tgz
+27 silly lockFile 45b19109-859606-0-566802530316636-package C:\Users\jeffrey\AppData\Local\Temp\npm-13560\1380759859606-0.566802530316636\package
+28 verbose lock C:\Users\jeffrey\AppData\Local\Temp\npm-13560\1380759859606-0.566802530316636\package C:\Users\jeffrey\AppData\Roaming\npm-cache\45b19109-859606-0-566802530316636-package.lock
+29 silly lockFile 79e5c608-859606-0-566802530316636-tmp-tgz C:\Users\jeffrey\AppData\Local\Temp\npm-13560\1380759859606-0.566802530316636\tmp.tgz
+30 verbose lock C:\Users\jeffrey\AppData\Local\Temp\npm-13560\1380759859606-0.566802530316636\tmp.tgz C:\Users\jeffrey\AppData\Roaming\npm-cache\79e5c608-859606-0-566802530316636-tmp-tgz.lock
+31 silly gunzTarPerm modes [ '755', '644' ]
+32 silly gunzTarPerm extractEntry package.json
+33 silly gunzTarPerm modified mode [ 'package.json', 438, 420 ]
+34 silly gunzTarPerm extractEntry README.md
+35 silly gunzTarPerm modified mode [ 'README.md', 438, 420 ]
+36 silly gunzTarPerm extractEntry jsonautotree.js
+37 silly gunzTarPerm modified mode [ 'jsonautotree.js', 438, 420 ]
+38 silly gunzTarPerm extractEntry lib/nodes/building.json
+39 silly gunzTarPerm modified mode [ 'lib/nodes/building.json', 438, 420 ]
+40 silly gunzTarPerm extractEntry lib/nodes/house.json
+41 silly gunzTarPerm modified mode [ 'lib/nodes/house.json', 438, 420 ]
+42 silly gunzTarPerm extractEntry lib/nodes/landscape.json
+43 silly gunzTarPerm modified mode [ 'lib/nodes/landscape.json', 438, 420 ]
+44 silly gunzTarPerm extractEntry lib/nodes/office.json
+45 silly gunzTarPerm modified mode [ 'lib/nodes/office.json', 438, 420 ]
+46 silly gunzTarPerm extractEntry lib/nodes/park.json
+47 silly gunzTarPerm modified mode [ 'lib/nodes/park.json', 438, 420 ]
+48 silly gunzTarPerm extractEntry lib/nodes/pond.json
+49 silly gunzTarPerm modified mode [ 'lib/nodes/pond.json', 438, 420 ]
+50 silly gunzTarPerm extractEntry lib/nodes/road.json
+51 silly gunzTarPerm modified mode [ 'lib/nodes/road.json', 438, 420 ]
+52 silly gunzTarPerm extractEntry lib/nodes/school.json
+53 silly gunzTarPerm modified mode [ 'lib/nodes/school.json', 438, 420 ]
+54 verbose read json C:\Users\jeffrey\AppData\Local\Temp\npm-13560\1380759859606-0.566802530316636\package\package.json
+55 silly lockFile 45b19109-859606-0-566802530316636-package C:\Users\jeffrey\AppData\Local\Temp\npm-13560\1380759859606-0.566802530316636\package
+56 silly lockFile 45b19109-859606-0-566802530316636-package C:\Users\jeffrey\AppData\Local\Temp\npm-13560\1380759859606-0.566802530316636\package
+57 silly lockFile 79e5c608-859606-0-566802530316636-tmp-tgz C:\Users\jeffrey\AppData\Local\Temp\npm-13560\1380759859606-0.566802530316636\tmp.tgz
+58 silly lockFile 79e5c608-859606-0-566802530316636-tmp-tgz C:\Users\jeffrey\AppData\Local\Temp\npm-13560\1380759859606-0.566802530316636\tmp.tgz
+59 verbose from cache C:\Users\jeffrey\AppData\Local\Temp\npm-13560\1380759859606-0.566802530316636\package\package.json
+60 verbose tar pack [ 'C:\\Users\\jeffrey\\AppData\\Roaming\\npm-cache\\jsonautotree\\0.0.1\\package.tgz',
+60 verbose tar pack   'C:\\Users\\jeffrey\\AppData\\Local\\Temp\\npm-13560\\1380759859606-0.566802530316636\\package' ]
+61 verbose tarball C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package.tgz
+62 verbose folder C:\Users\jeffrey\AppData\Local\Temp\npm-13560\1380759859606-0.566802530316636\package
+63 silly lockFile 45b19109-859606-0-566802530316636-package C:\Users\jeffrey\AppData\Local\Temp\npm-13560\1380759859606-0.566802530316636\package
+64 verbose lock C:\Users\jeffrey\AppData\Local\Temp\npm-13560\1380759859606-0.566802530316636\package C:\Users\jeffrey\AppData\Roaming\npm-cache\45b19109-859606-0-566802530316636-package.lock
+65 silly lockFile 3055d9f0-e-jsonautotree-0-0-1-package-tgz C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package.tgz
+66 verbose lock C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package.tgz C:\Users\jeffrey\AppData\Roaming\npm-cache\3055d9f0-e-jsonautotree-0-0-1-package-tgz.lock
+67 silly lockFile 45b19109-859606-0-566802530316636-package C:\Users\jeffrey\AppData\Local\Temp\npm-13560\1380759859606-0.566802530316636\package
+68 silly lockFile 45b19109-859606-0-566802530316636-package C:\Users\jeffrey\AppData\Local\Temp\npm-13560\1380759859606-0.566802530316636\package
+69 silly lockFile 3055d9f0-e-jsonautotree-0-0-1-package-tgz C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package.tgz
+70 silly lockFile 3055d9f0-e-jsonautotree-0-0-1-package-tgz C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package.tgz
+71 silly lockFile c2859a14-cache-jsonautotree-0-0-1-package C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package
+72 verbose lock C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package C:\Users\jeffrey\AppData\Roaming\npm-cache\c2859a14-cache-jsonautotree-0-0-1-package.lock
+73 silly lockFile c2859a14-cache-jsonautotree-0-0-1-package C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package
+74 silly lockFile c2859a14-cache-jsonautotree-0-0-1-package C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package
+75 verbose tar unpack C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package.tgz
+76 silly lockFile c2859a14-cache-jsonautotree-0-0-1-package C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package
+77 verbose lock C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package C:\Users\jeffrey\AppData\Roaming\npm-cache\c2859a14-cache-jsonautotree-0-0-1-package.lock
+78 silly lockFile 3055d9f0-e-jsonautotree-0-0-1-package-tgz C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package.tgz
+79 verbose lock C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package.tgz C:\Users\jeffrey\AppData\Roaming\npm-cache\3055d9f0-e-jsonautotree-0-0-1-package-tgz.lock
+80 silly gunzTarPerm modes [ '755', '644' ]
+81 silly gunzTarPerm extractEntry package.json
+82 silly gunzTarPerm modified mode [ 'package.json', 438, 420 ]
+83 silly gunzTarPerm extractEntry README.md
+84 silly gunzTarPerm modified mode [ 'README.md', 438, 420 ]
+85 silly gunzTarPerm extractEntry jsonautotree.js
+86 silly gunzTarPerm modified mode [ 'jsonautotree.js', 438, 420 ]
+87 silly gunzTarPerm extractEntry lib/nodes/building.json
+88 silly gunzTarPerm modified mode [ 'lib/nodes/building.json', 438, 420 ]
+89 silly gunzTarPerm extractEntry lib/nodes/house.json
+90 silly gunzTarPerm modified mode [ 'lib/nodes/house.json', 438, 420 ]
+91 silly gunzTarPerm extractEntry lib/nodes/landscape.json
+92 silly gunzTarPerm modified mode [ 'lib/nodes/landscape.json', 438, 420 ]
+93 silly gunzTarPerm extractEntry lib/nodes/office.json
+94 silly gunzTarPerm modified mode [ 'lib/nodes/office.json', 438, 420 ]
+95 silly gunzTarPerm extractEntry lib/nodes/park.json
+96 silly gunzTarPerm modified mode [ 'lib/nodes/park.json', 438, 420 ]
+97 silly gunzTarPerm extractEntry lib/nodes/pond.json
+98 silly gunzTarPerm modified mode [ 'lib/nodes/pond.json', 438, 420 ]
+99 silly gunzTarPerm extractEntry lib/nodes/road.json
+100 silly gunzTarPerm modified mode [ 'lib/nodes/road.json', 438, 420 ]
+101 silly gunzTarPerm extractEntry lib/nodes/school.json
+102 silly gunzTarPerm modified mode [ 'lib/nodes/school.json', 438, 420 ]
+103 verbose read json C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package\package.json
+104 silly lockFile c2859a14-cache-jsonautotree-0-0-1-package C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package
+105 silly lockFile c2859a14-cache-jsonautotree-0-0-1-package C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package
+106 silly lockFile 3055d9f0-e-jsonautotree-0-0-1-package-tgz C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package.tgz
+107 silly lockFile 3055d9f0-e-jsonautotree-0-0-1-package-tgz C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package.tgz
+108 verbose from cache C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package\package.json
+109 verbose chmod C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package.tgz 644
+110 silly chown skipping for windows C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package.tgz
+111 silly lockFile 3a52ce78- .
+112 silly resolved [ { author: { name: 'Jeff Wax', email: 'jeff@jeffwax.com' },
+112 silly resolved     name: 'jsonautotree',
+112 silly resolved     version: '0.0.1',
+112 silly resolved     main: 'jsonautotree.js',
+112 silly resolved     engine: 'v0.10.7',
+112 silly resolved     description: 'Receives JSON objects and constructs a heirarchical tree from them.',
+112 silly resolved     license: 'BSD',
+112 silly resolved     directories: { lib: './lib' },
+112 silly resolved     repository: { type: 'git', url: 'http://github.com/Jwaxo/jsonautotree/' },
+112 silly resolved     dependancies: {},
+112 silly resolved     readme: 'jsonautotree\r\n===========\r\n\r\nAutomatically creates a branching network of inheriting nodes based off of JSON files that list parents.\r\n',
+112 silly resolved     readmeFilename: 'README.md',
+112 silly resolved     _id: 'jsonautotree@0.0.1',
+112 silly resolved     dist: { shasum: 'c990e297addb62eacc3d59e666eec63fe3cc584c' },
+112 silly resolved     _from: '.' } ]
+113 info install jsonautotree@0.0.1 into C:\Users\jeffrey\AppData\Roaming\npm
+114 info installOne jsonautotree@0.0.1
+115 verbose from cache C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package\package.json
+116 info C:\Users\jeffrey\AppData\Roaming\npm\node_modules\jsonautotree unbuild
+117 verbose read json C:\Users\jeffrey\AppData\Roaming\npm\node_modules\jsonautotree\package.json
+118 info preuninstall jsonautotree@0.0.1
+119 info uninstall jsonautotree@0.0.1
+120 verbose true,C:\Users\jeffrey\AppData\Roaming\npm\node_modules,C:\Users\jeffrey\AppData\Roaming\npm\node_modules unbuild jsonautotree@0.0.1
+121 info postuninstall jsonautotree@0.0.1
+122 verbose tar unpack C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package.tgz
+123 silly lockFile b12f629b-ng-npm-node-modules-jsonautotree C:\Users\jeffrey\AppData\Roaming\npm\node_modules\jsonautotree
+124 verbose lock C:\Users\jeffrey\AppData\Roaming\npm\node_modules\jsonautotree C:\Users\jeffrey\AppData\Roaming\npm-cache\b12f629b-ng-npm-node-modules-jsonautotree.lock
+125 silly lockFile 3055d9f0-e-jsonautotree-0-0-1-package-tgz C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package.tgz
+126 verbose lock C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package.tgz C:\Users\jeffrey\AppData\Roaming\npm-cache\3055d9f0-e-jsonautotree-0-0-1-package-tgz.lock
+127 silly gunzTarPerm modes [ '755', '644' ]
+128 silly gunzTarPerm extractEntry package.json
+129 silly gunzTarPerm modified mode [ 'package.json', 438, 420 ]
+130 silly gunzTarPerm extractEntry README.md
+131 silly gunzTarPerm modified mode [ 'README.md', 438, 420 ]
+132 silly gunzTarPerm extractEntry jsonautotree.js
+133 silly gunzTarPerm modified mode [ 'jsonautotree.js', 438, 420 ]
+134 silly gunzTarPerm extractEntry lib/nodes/building.json
+135 silly gunzTarPerm modified mode [ 'lib/nodes/building.json', 438, 420 ]
+136 silly gunzTarPerm extractEntry lib/nodes/house.json
+137 silly gunzTarPerm modified mode [ 'lib/nodes/house.json', 438, 420 ]
+138 silly gunzTarPerm extractEntry lib/nodes/landscape.json
+139 silly gunzTarPerm modified mode [ 'lib/nodes/landscape.json', 438, 420 ]
+140 silly gunzTarPerm extractEntry lib/nodes/office.json
+141 silly gunzTarPerm modified mode [ 'lib/nodes/office.json', 438, 420 ]
+142 silly gunzTarPerm extractEntry lib/nodes/park.json
+143 silly gunzTarPerm modified mode [ 'lib/nodes/park.json', 438, 420 ]
+144 silly gunzTarPerm extractEntry lib/nodes/pond.json
+145 silly gunzTarPerm modified mode [ 'lib/nodes/pond.json', 438, 420 ]
+146 silly gunzTarPerm extractEntry lib/nodes/road.json
+147 silly gunzTarPerm modified mode [ 'lib/nodes/road.json', 438, 420 ]
+148 silly gunzTarPerm extractEntry lib/nodes/school.json
+149 silly gunzTarPerm modified mode [ 'lib/nodes/school.json', 438, 420 ]
+150 verbose read json C:\Users\jeffrey\AppData\Roaming\npm\node_modules\jsonautotree\package.json
+151 silly lockFile b12f629b-ng-npm-node-modules-jsonautotree C:\Users\jeffrey\AppData\Roaming\npm\node_modules\jsonautotree
+152 silly lockFile b12f629b-ng-npm-node-modules-jsonautotree C:\Users\jeffrey\AppData\Roaming\npm\node_modules\jsonautotree
+153 silly lockFile 3055d9f0-e-jsonautotree-0-0-1-package-tgz C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package.tgz
+154 silly lockFile 3055d9f0-e-jsonautotree-0-0-1-package-tgz C:\Users\jeffrey\AppData\Roaming\npm-cache\jsonautotree\0.0.1\package.tgz
+155 info preinstall jsonautotree@0.0.1
+156 verbose from cache C:\Users\jeffrey\AppData\Roaming\npm\node_modules\jsonautotree\package.json
+157 verbose readDependencies using package.json deps
+158 verbose from cache C:\Users\jeffrey\AppData\Roaming\npm\node_modules\jsonautotree\package.json
+159 verbose readDependencies using package.json deps
+160 silly resolved []
+161 verbose about to build C:\Users\jeffrey\AppData\Roaming\npm\node_modules\jsonautotree
+162 info build C:\Users\jeffrey\AppData\Roaming\npm\node_modules\jsonautotree
+163 verbose from cache C:\Users\jeffrey\AppData\Roaming\npm\node_modules\jsonautotree\package.json
+164 verbose linkStuff [ true,
+164 verbose linkStuff   'C:\\Users\\jeffrey\\AppData\\Roaming\\npm\\node_modules',
+164 verbose linkStuff   true,
+164 verbose linkStuff   'C:\\Users\\jeffrey\\AppData\\Roaming\\npm\\node_modules' ]
+165 info linkStuff jsonautotree@0.0.1
+166 verbose read json C:\Users\jeffrey\Documents\GitHub\jsontree.js\package.json
+167 error TypeError: Object.keys called on non-object
+167 error     at Function.keys (native)
+167 error     at C:\Program Files\nodejs\node_modules\npm\lib\build.js:111:18
+167 error     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-package-json\read-json.js:53:40
+167 error     at final (C:\Program Files\nodejs\node_modules\npm\node_modules\read-package-json\read-json.js:311:17)
+167 error     at then (C:\Program Files\nodejs\node_modules\npm\node_modules\read-package-json\read-json.js:118:48)
+167 error     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-package-json\read-json.js:293:40
+167 error     at fs.js:266:14
+167 error     at Object.oncomplete (fs.js:107:15)
+168 error If you need help, you may report this log at:
+168 error     <http://github.com/isaacs/npm/issues>
+168 error or email it to:
+168 error     <npm-@googlegroups.com>
+169 error System Windows_NT 6.1.7601
+170 error command "C:\\Program Files\\nodejs\\\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "." "-g"
+171 error cwd C:\Users\jeffrey\Documents\GitHub\jsontree.js
+172 error node -v v0.10.7
+173 error npm -v 1.2.21
+174 error type called_on_non_object
+175 verbose exit [ 1, true ]
