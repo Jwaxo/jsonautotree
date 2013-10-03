@@ -1,0 +1,8 @@
+{
+    "type" : "building",
+    "color" : "00ff00",
+    "size" : "3",
+    "chance" : "70",
+    "adjacent" : "road",
+    "shape" : "random"
+}

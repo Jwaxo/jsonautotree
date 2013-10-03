@@ -1,0 +1,6 @@
+{
+    "type" : "office",
+    "parentType" : "building",
+    "color" : "b6b6b6",
+    "chance" : "50"
+}
