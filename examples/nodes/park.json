@@ -1,7 +1,7 @@
 {
-    "type" : "park",
-    "parentType" : "landscape",
-    "color" : "51c728",
-    "chance" : "80",
-    "shape" : "random"
+  "type": "park",
+  "parentType": "landscape",
+  "color": "51c728",
+  "chance": "80",
+  "shape": "random"
 }

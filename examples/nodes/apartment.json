@@ -1,4 +1,4 @@
 {
-    "type" : "apartment",
-    "parentType" : "building"
+  "type": "apartment",
+  "parentType": "building"
 }
